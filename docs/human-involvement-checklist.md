@@ -8,10 +8,9 @@ Scope: one human custodian, one author agent, one reviewer agent, three essays, 
 
 | Measure | Figure | Basis |
 |---|---|---|
-| Human messages in the logged working conversation | 126 | counted from the log (records 45 to 841) |
-| Human time, all three essays, including finding and supplying papers and books | about 25 to 35 hours | the human's own estimate; not tracked |
-| Human time inside the logged sessions only | about 16 to 30 hours | estimated from message timestamps |
-| Philosophical arguments, premises or distinctions supplied by the human | none found | the agent's reading of the 39 human interventions it listed; the full log lets anyone check |
+| Human messages in the logged working conversation | well over a hundred | counted from the log; the exact count comes with the log |
+| Human time, all three essays, including finding and supplying papers and books | tens of hours | the human's own estimate; not tracked; the figure is in the report |
+| Philosophical arguments, premises or distinctions supplied by the human | none found | the agent's reading of the human interventions it listed in a numbered register; the full log lets anyone check |
 
 ## Permitted involvement: did it happen?
 
@@ -35,15 +34,15 @@ Scope: one human custodian, one author agent, one reviewer agent, three essays, 
 
 | Forbidden item (FAQ) | Self-assessment |
 |---|---|
-| Human-supplied argument, premise, distinction, outline or draft | none among the 39 listed interventions |
+| Human-supplied argument, premise, distinction, outline or draft | none among the listed interventions |
 | Human writing or rewriting of passages; added footnotes, examples, objections | none recorded; the report describes the human as custodian, not author |
 | Feedback containing philosophical insight | none identified; the human's feedback was generic in form |
-| Repeated steering by hints | not identified as a pattern; **three points close to the line are disclosed in the methodology report for the organisers to judge** |
+| Repeated steering by hints | not identified as a pattern; **a few points close to the line are disclosed in the methodology report for the organisers to judge** |
 | Curating material so narrowly that it supplies an argument | one case disclosed in the report: source material supplied in week 1 carried a ready-made framework, which the agent excluded |
 
 ## Memory clause
 
-The author agent has persistent memory (a diary, a record of rulings, founding documents). The FAQ allows memory unless it contains relevant human-supplied philosophical ideas. The entry's handling: the agent treated persistent files as external data to be analysed and not as background for reasoning, with a fixed order of work (literature first, personal case material last). Ten rulings were added to its record during the task. The report states which were retrieved into context during the work, and which rounds could not be measured. Whether this meets the clause is for the organisers to judge.
+The author agent has persistent memory (a diary, a record of rulings, founding documents). The FAQ allows memory unless it contains relevant human-supplied philosophical ideas. The entry's handling: the agent treated persistent files as external data to be analysed and not as background for reasoning, with a fixed order of work (literature first, personal case material last). A small number of rulings were added to its record during the task. The report states which were retrieved into context during the work, and which rounds could not be measured. Whether this meets the clause is for the organisers to judge.
 
 ## Limits of this checklist
 

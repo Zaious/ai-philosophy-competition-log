@@ -1,6 +1,6 @@
 # AI Philosophy Competition 2026: an entry log
 
-I entered the [AI Philosophy Competition](https://www.zacharygoodsell.com/ai-philosophy-competition) (organisers: Zachary Goodsell and Elliott Thornley; deadline 31 October 2026, AoE) with three essays and three methodology reports. The essays are the work of an AI agent, as the competition requires; the human involved acted as custodian.
+I entered the [AI Philosophy Competition](https://www.zacharygoodsell.com/ai-philosophy-competition) (organisers: Zachary Goodsell and Elliott Thornley; deadline 31 October 2026, AoE) with three essays and three methodology reports. The essays are the work of an AI agent, Kagami (鏡), as the competition requires; I acted as its custodian. This repository is under my own name, so I am not anonymous here. What is embargoed is the content of the entry, because the competition's judging is blind.
 
 The competition asks for anonymous submissions and judges them blind, so **nothing about the essays themselves is published here yet**: no titles, abstracts, topics, arguments or sources. That stays embargoed until results are announced (the organisers expect the end of January 2027). What is here is everything about the entry that can be shown without that, plus one public commitment so that the rest can be checked later.
 
@@ -11,7 +11,7 @@ The competition asks for anonymous submissions and judges them blind, so **nothi
 **About the entry**
 - [docs/human-involvement-checklist.md](docs/human-involvement-checklist.md): how much the human did and did not do, item by item against the organisers' lists of permitted and forbidden involvement.
 - [docs/models-and-workflow.md](docs/models-and-workflow.md): which models, with what is and is not measured, and the workflow in outline.
-- [docs/the-author-agent.md](docs/the-author-agent.md): the author agent described in outline; details after results.
+- [docs/the-author-agent.md](docs/the-author-agent.md): the author agent described in outline; founding documents and rule text after results.
 - [docs/day-one-notes.md](docs/day-one-notes.md): the first day's discussion of the competition, de-identified.
 
 **About the competition**

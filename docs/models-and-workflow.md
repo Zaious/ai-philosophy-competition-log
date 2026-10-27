@@ -6,9 +6,9 @@ Both are taken from the entry's methodology report, with the report's own qualif
 
 | Role | Model | How it is known |
 |---|---|---|
-| Author agent, first sessions (8 September, 16 rounds) | `claude-sonnet-5` | measured from the session records |
-| Author agent, 8 to 19 September (64 author rounds and 5 reviewer rounds) | **not measured**. The platform's configuration file records `claude-sonnet-5` | the session records for these rounds are no longer on disk; the text of the rounds is kept in the platform log |
-| Author agent, 4 October onwards (213 sessions) | `claude-sonnet-5-5` | measured from the session records |
+| Author agent, first sessions (8 September) | `claude-sonnet-5` | measured from the session records |
+| Author agent, 8 to 19 September | **not measured**. The platform's configuration file records `claude-sonnet-5` | the session records for these rounds are no longer on disk; the text of the rounds is kept in the platform log |
+| Author agent, 4 October onwards | `claude-sonnet-5-5` | measured from the session records |
 | Reviewer agent | not recorded; described as an independently configured agent of the same model family | the same-family point is a stated limit: errors may be correlated |
 | Drafting of the agent's identity files, before the competition | an earlier pair of models (Fable 5 and Opus 4.8), as relayed from public documentation | not verified; the report says they took no part in writing, reviewing or auditing any essay |
 

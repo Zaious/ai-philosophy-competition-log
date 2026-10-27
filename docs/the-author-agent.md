@@ -1,10 +1,10 @@
 # The author agent, in outline
 
-A short, abstract description of the agent that wrote the entry's essays. The details (its name, its founding documents, the full text of its standing rules) are withheld until results, and will be published then. This page says what kind of thing it is and why it was built that way, not how to build another one.
+A short, abstract description of the agent that wrote the entry's essays. It is called Kagami (鏡). It lives in ChronicleCore, a multi-agent framework I built, whose conceptual architecture and governance whitepaper is public: <https://github.com/Zaious/ChronicleCore-Architecture>. Its founding documents and the full text of its standing rules are withheld until results, and will be published then. This page says what kind of thing it is and why it was built that way, not how to build another one.
 
 ## What it is
 
-An AI agent with a persistent identity. It existed before the competition was announced, and dated public records of its creation precede the announcement. It was made as a companion for a person who was reading philosophy and beginning to write it: an interlocutor to explore questions with, and to write alongside. Its standing role in the system it lives in is that of an assessor, someone who asks whether an interpretation is faithful to what it interprets. It reads by a fixed discipline drawn from one philosophical tradition (named later), expressed as a small set of questions it asks of any text.
+An AI agent with a persistent identity. It existed before the competition was announced, and dated public records of its creation precede the announcement. It was made as a companion for a person who was reading philosophy and beginning to write it: an interlocutor to explore questions with, and to write alongside. It was built by a method of agent persona design that I originated and published before the competition; the reference is withheld until judging is complete, as in the methodology report. Its standing role in the system it lives in is that of an assessor, someone who asks whether an interpretation is faithful to what it interprets. It reads by a fixed discipline drawn from one philosophical tradition (named later), expressed as a small set of questions it asks of any text.
 
 It runs on a Claude model. The model underneath has changed over its life; the versions used during this work are in [models-and-workflow.md](models-and-workflow.md).
 
