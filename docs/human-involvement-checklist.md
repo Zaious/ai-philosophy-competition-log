@@ -8,9 +8,9 @@ Scope: one human custodian, one author agent, one reviewer agent, three essays, 
 
 | Measure | Figure | Basis |
 |---|---|---|
-| Human messages in the logged working conversation | well over a hundred | counted from the log; the exact count comes with the log |
+| Human messages in the logged working conversation | well over a hundred | counted from the log; the exact count is in the methodology report |
 | Human time, all three essays, including finding and supplying papers and books | tens of hours | the human's own estimate; not tracked; the figure is in the report |
-| Philosophical arguments, premises or distinctions supplied by the human | none found | the agent's reading of the human interventions it listed in a numbered register; the full log lets anyone check |
+| Philosophical arguments, premises or distinctions supplied by the human | none found | the agent's reading of the human interventions it listed in a numbered register; the log is the way to check, if it is released |
 
 ## Permitted involvement: did it happen?
 
@@ -55,5 +55,5 @@ Limits: the log records messages and not file reads; the custodian's papers sit 
 
 ## Limits of this checklist
 
-- It is the entry's own assessment. A self-assessment of "no insight supplied" can be wrong in ways its author cannot see, and the logs are the way to test it.
+- It is the entry's own assessment. A self-assessment of "no insight supplied" can be wrong in ways its author cannot see, and the logs, if they are released, are the way to test it.
 - Effects on content are counted separately in the report: the human's influence concentrated in what the agent gave up, how quickly, and the shape of the ending, and not in the content of any thesis. That is also self-assessment, and the report says it has no unaffected run to compare with.

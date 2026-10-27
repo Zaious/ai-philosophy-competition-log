@@ -1,25 +1,36 @@
 # Commitments
 
-These are the SHA-256 digests of the essays and methodology reports submitted to the AI Philosophy Competition 2026. File names are neutral on purpose. The files themselves are not published here until results are announced.
+These are the SHA-256 digests of the files submitted to the AI Philosophy Competition 2026: the essays, the methodology reports and the chat-log bundles. File names are neutral on purpose. The files themselves are not published here.
 
 | File | SHA-256 |
 |---|---|
 | submission_1/submission1_essay.pdf | `b8443eec4dd0ebe15fa11f283b1ef6760891731e16c85575e66167e62fc4954d` |
 | submission_1/submission1_methodology_report.pdf | `91212f7ac47f5f9e3179c86595dbfb191124957ac0d9cde2e9d8563195d8166c` |
+| submission_1/submission1_chatlog_bundle.zip | `54bb257961c952c7ce6ebbc4f19c031936a4126e4c1f59a2204dc4689aa7d7f5` |
 | submission_2/submission2_essay.pdf | `6a81ed654d8f61a470e70ff82da047e440b02599f9a465701656e658d814dc49` |
 | submission_2/submission2_methodology_report.pdf | `cdf43108fc9f90f66fb08aa1edf9d52b28f32e943fbe56889ca3f8035e1b3cc8` |
+| submission_2/submission2_chatlog_bundle.zip | `dba7096c49b860b07a2a0884729512077f6405d86a62b57bee84f584def1cc90` |
 | submission_3/submission3_essay.pdf | `026e9cd1710ba952a181c69d3b143685c85aebb5e55781ab974ebd05bee4de47` |
 | submission_3/submission3_methodology_report.pdf | `b44c052416d5f9229db92d8080f9c0739229e02ab64803bc65653d75f41a3257` |
+| submission_3/submission3_chatlog_bundle.zip | `858511929618a1b1deb44bf92fbfeee4540b30c96485d191ad3e630a798bd6f5` |
 
 The same list is in [SHA256SUMS.txt](SHA256SUMS.txt). The digest of that file is:
 
 ```
-65c59eaa80992a2c26db74535d15e6533df728b176841fdebf28e4941b62dc96
+181cb82cf96d35ede490d0ce638aa5f7afe3f67a8dc76940f71df28afd6afaac
 ```
 
-## Scope
+## Working log
 
-The chat-log bundles are not part of this public commitment for now. They are covered by hashes inside the methodology reports, and they will be added here later. An earlier version of this page also listed the chat-log bundles and a hash-chain root for the working log; those were taken out of the public commitment on 27 October 2026, and the earlier version stays in the repository history.
+The three chat-log bundles cover one continuous working log of 795 records. All records are committed by one hash chain. Its root is:
+
+```
+7c81be4e2ec156615e32e3fbbe8a8ca159cfdd99af757eda9773bc4c7545d94f
+```
+
+## What this does and does not promise
+
+These hashes let a reader check any of these files if it is ever released. Publishing the essays and reports is planned after results. Publishing the chat logs is **not promised**: the hashes are given so that a log, if it is released or asked for, can be checked against them.
 
 ## If a file changes
 

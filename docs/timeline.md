@@ -20,6 +20,6 @@ After the winners are announced, essays and methodology reports are published un
 | 25 October 2026 | last record of the working log used for the entry (record 841) |
 | 26 to 27 October | submission files built and checked; commitments computed |
 | By 31 October | files uploaded to OpenReview |
-| After results | essays, reports, full logs and verifier released; commitments checked |
+| After results | essays and reports released; commitments checked |
 
 Dates of events after the day this page was written are intentions, and are marked as such. The repository's own history (the commit dates) is the record of when each file here was added.

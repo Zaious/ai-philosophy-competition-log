@@ -12,7 +12,7 @@ The competition asks for anonymous submissions and judges them blind, so **nothi
 
 ## What is here now
 
-**The commitment.** [COMMITMENTS.md](COMMITMENTS.md) records the SHA-256 of the three essays and the three methodology reports, fixed before the deadline. The chat-log bundles are not part of this public commitment for now. A commitment shows only that the files were not edited afterwards. It does not show who had the ideas.
+**The commitment.** [COMMITMENTS.md](COMMITMENTS.md) records the SHA-256 of every file submitted (the essays, the methodology reports and the chat-log bundles) and the root of a hash chain over the full working log, fixed before the deadline. Publishing the chat logs themselves is not promised; the hashes are there so that a log, if it is released or asked for, can be checked. A commitment shows only that the files were not edited afterwards. It does not show who had the ideas.
 
 **About the entry**
 - [docs/human-involvement-checklist.md](docs/human-involvement-checklist.md): how much the human did and did not do, item by item against the organisers' lists of permitted and forbidden involvement.
@@ -34,7 +34,7 @@ The competition asks for anonymous submissions and judges them blind, so **nothi
 
 ## What will be released after results
 
-The three essays and methodology reports (the competition publishes winners under CC BY 4.0; I plan to publish mine after results), the chat-log bundles with their verifier (the full working conversation, Chinese original with English translation), the author agent's details, and instructions for checking every hash in COMMITMENTS.md against the released files.
+The three essays and methodology reports (the competition publishes winners under CC BY 4.0; I plan to publish mine after results), the author agent's details, and instructions for checking every hash in COMMITMENTS.md against the released files. Whether and in what form the chat logs are released has not been decided.
 
 ## Why
 

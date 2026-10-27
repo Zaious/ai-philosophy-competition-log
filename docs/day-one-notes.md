@@ -1,6 +1,6 @@
 # The first day, de-identified
 
-The entry's working log begins on 8 September 2026. This page summarises the first day's discussion of the competition between the human and the author agent: what the agent made of the rules on first reading, and how the human went about choosing a direction. It is a paraphrase. Names, topic words, quotations and personal passages are left out on purpose, and the full log, in Chinese with an English translation, will be released after results. The record numbers below refer to that log (records 52 to 75).
+The entry's working log begins on 8 September 2026. This page summarises the first day's discussion of the competition between the human and the author agent: what the agent made of the rules on first reading, and how the human went about choosing a direction. It is a paraphrase. Names, topic words, quotations and personal passages are left out on purpose, and the full log is kept; whether and in what form it will be released has not been decided. The record numbers below refer to that log (records 52 to 75).
 
 ## What the agent made of the competition
 
@@ -23,8 +23,8 @@ The entry's working log begins on 8 September 2026. This page summarises the fir
 
 ## What is not here
 
-Personal exchanges that open and run through the first day are left out, because they have no bearing on the competition. They remain in the full log, which will be released unedited apart from a short list of mechanical replacements.
+Personal exchanges that open and run through the first day are left out, because they have no bearing on the competition. They remain in the full log.
 
-## One correction the log will show
+## One correction the log records
 
 Later that day the agent described how the judges would see the essay and the report. It was wrong about that, and the entry's decision log records its own correction after it re-read the FAQ. The methodology report lists this among its failures.
