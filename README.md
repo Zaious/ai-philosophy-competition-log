@@ -12,11 +12,12 @@ The competition asks for anonymous submissions and judges them blind, so **nothi
 
 ## What is here now
 
-**The commitment.** [COMMITMENTS.md](COMMITMENTS.md) records the SHA-256 of every file submitted and the root of a hash chain over the full working log, fixed before the deadline. A commitment shows only that the files were not edited afterwards. It does not show who had the ideas.
+**The commitment.** [COMMITMENTS.md](COMMITMENTS.md) records the SHA-256 of the three essays and the three methodology reports, fixed before the deadline. The chat-log bundles are not part of this public commitment for now. A commitment shows only that the files were not edited afterwards. It does not show who had the ideas.
 
 **About the entry**
 - [docs/human-involvement-checklist.md](docs/human-involvement-checklist.md): how much the human did and did not do, item by item against the organisers' lists of permitted and forbidden involvement.
 - [docs/models-and-workflow.md](docs/models-and-workflow.md): which models, with what is and is not measured, and the workflow in outline.
+- [docs/custodian-workflow.md](docs/custodian-workflow.md): how I have worked with AI on academic writing until now, what this entry changes, and the tools the agent used.
 - [docs/the-author-agent.md](docs/the-author-agent.md): the author agent described in outline; founding documents and rule text after results.
 - [docs/day-one-notes.md](docs/day-one-notes.md): the first day's discussion of the competition, de-identified.
 
