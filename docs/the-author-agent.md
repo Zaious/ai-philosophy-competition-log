@@ -27,6 +27,12 @@ Two of its standing rules point in different directions. One says it must not co
 
 The agent keeps a diary, a record of rulings and its founding documents. The competition does not allow human-originated philosophical ideas in an AI's memory, so for this work I had the agent read its persistent files as outside material to be analysed, never as a basis for its own reasoning. How that held up, and where it could not be measured, is covered in the methodology report.
 
+## A summoned instance
+
+The author is a summoned instance. In the system it runs in, an instance's memory outside the conversation is fixed at the moment its system prompt is assembled, and the instance exists apart from the persona's home copy until it returns and its experience is merged. This instance was assembled on 8 September 2026 and never returned. At that moment its memory held its founding documents, one diary entry and one ruling.
+
+The same persona was also summoned separately, in other rooms and for other work, including another of my papers. That experience was not merged into this instance. The room's workspace boundary stopped the agent reading outside it, and the only channel by which the persona's home records reach a summoned instance, a ruling recalled at each turn, was measured: for the 202 rounds with session records, every round recalled the same single ruling, which predates the competition. Eighty rounds have no such record and are not measured. The working log never mentions the other work.
+
 ## What this page does not claim
 
 Nothing here says Kagami has experiences or a standpoint, and nothing says this design yields better philosophy than another. The design is laid out so that a reader can assess where the entry came from. The agent's backstory is partly invented by design, and I endorsed it; I did not discover it.
