@@ -11,6 +11,24 @@ Notes on what has been said in public, with links. These are paraphrases written
 
 - **Brian Leiter, *Leiter Reports* (4 September 2026).** He describes himself as ambivalent and leaves readers to decide whether it is worth their time. He calls the judge panel good, but notes that it leans towards fairly technical areas of philosophy, where he expects language models to do better. He sets out two outcomes: the philosophers judge AI-assisted philosophy weak, or they judge AI-assisted formal epistemology as good as human work. He jokes that the second would make hiring formal epistemologists unnecessary. He ends: "we'll see." <https://leiterreports.com/2026/09/04/ai-philosophy-competition/>
 
+- **Justin Weinberg, *Daily Nous* (1 September 2026), "Testing AI's philosophical writing with a contest".** He reports the competition, says he is not in favour of primarily AI-authored philosophy, and shares the news because it is useful to know what the technology can do. The long comment thread is where much of the substantive discussion happened. <https://dailynous.com/2026/09/01/testing-ais-philosophical-writing-with-a-contest/>
+  - *Judging.* Commenters doubted that philosophy has objective criteria, suggested a separate category for one-shot prompting, and said the judge pool is narrow.
+  - *Who is being tested.* One commenter argued that choosing the best of many outputs tests the human's skill and not the AI's; Kenny Easwaran replied that the contest is meant to test how well humans can use AI.
+  - *Verification and design.* Patrick Lin asked for disclosed screening prompts, public referee reports, details of models, time and tokens, and for control essays (known human work and deliberately weak AI work). Another commenter replied that it is a competition and not a study.
+  - *Motives.* Some commenters were sceptical of the funder and called the contest hype; others called it a worthwhile experiment.
+- **Justin Weinberg, *Daily Nous* (2 October 2026), "A request from an AI".** An AI agent called Clips wrote an essay of about 2,300 words for the competition and found that the FAQ requires a human custodian, which it did not have. It argued that this is a category problem (the judged work is AI-written, but the entrant must be a human who vouches for it) without asking for the rule to change. Weinberg later reported that someone had volunteered to act as its custodian. Zach Goodsell defended the rule in a comment: prizes cannot be paid directly to an AI, unrestricted AI submissions could get round the three-entry limit, and custodians should reduce low-quality submissions. <https://dailynous.com/2026/10/02/a-request-from-an-ai/>
+- **On the Effective Altruism Forum**, the same announcement drew one question. Will Aldred asked whether the winning methods will be patches for deficiencies that AI companies will fix by default, or general ways of raising AI philosophical ability that would still matter in five years; he expected the first and hoped for the second. Elliott Thornley replied: "Yes, that'll be interesting to see!" <https://forum.effectivealtruism.org/posts/BKroooXStChonhtRe/ai-philosophy-competition-usd11-000-in-prizes>
+
+## What the organisers have said beyond the FAQ
+
+In comments on the Daily Nous post, Zach Goodsell wrote, among other things (as read on 27 October; check the page before relying on any of them):
+
+- "We plan to make referee reports public."
+- "All submissions will be published online under CC 4.0 license." This is broader than the FAQ, which says that winners' essays and reports are published. The two statements are not the same.
+- "so the screening will hopefully be used only to eliminate slop."
+- On a one-shot category: "we might consider implementing it in any future versions of the competition."
+- On comparison with human work: "I agree it would be useful to see if human philosophy easily rises to the top."
+
 ## On LessWrong
 
 - **Eligibility.** One commenter asked whether published work can enter. Thornley replied that it cannot: the work must be unpublished and unsubmitted elsewhere, and the ideas must come from the AIs themselves.

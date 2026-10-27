@@ -22,7 +22,8 @@ The competition asks for anonymous submissions and judges them blind, so **nothi
 
 **About the competition**
 - [docs/rules-map.md](docs/rules-map.md): the rules and FAQ mapped, including the rules that are easy to miss and the questions the pages leave open.
-- [docs/public-discussion.md](docs/public-discussion.md): what has been said in public, with links.
+- [docs/public-discussion.md](docs/public-discussion.md): what has been said in public, including the organisers' statements beyond the FAQ, with links.
+- [docs/related-entries.md](docs/related-entries.md): other public repositories from entrants, described neutrally.
 - [docs/timeline.md](docs/timeline.md): dates.
 
 **For other entrants**
