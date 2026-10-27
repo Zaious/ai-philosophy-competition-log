@@ -2,7 +2,7 @@
 
 ## How I have worked until now
 
-For my own research I use a set of AI skills that I built for academic writing. In every paper so far, the ideas and the direction were mine, and an AI helped me argue them and carry them out; my published paper on agent identity design says so in its acknowledgements. My working rule has been that the core idea has to come from a human's own thinking, and that execution can be shared.
+For my own research I use a set of AI skills that I built for academic writing. In every paper so far, the ideas and the direction were mine, and an AI helped me argue them and carry them out; my published paper on agent identity design says so in its acknowledgements. My experience has been that the human has to supply the creative idea and decide where the paper lands in theory, while the AI brings fuller knowledge of the field and does much of the drafting, and the human judges the result. Checking references can be done by mechanical rules, and my skills are built on that. But when I let an agent write on its own, I have often got one of two things: a manuscript that strings things together on the surface without a base that can bear weight, or one so safe and conservative that it has no novelty and makes no contribution. So this entry is a new attempt for me.
 
 ## What is different here
 
