@@ -44,6 +44,15 @@ Scope: one human custodian, one author agent, one reviewer agent, three essays, 
 
 The author agent has persistent memory (a diary, a record of rulings, founding documents). The FAQ allows memory unless it contains relevant human-supplied philosophical ideas. The entry's handling: the agent treated persistent files as external data to be analysed and not as background for reasoning, with a fixed order of work (literature first, personal case material last). A small number of rulings were added to its record during the task. The report states which were retrieved into context during the work, and which rounds could not be measured. Whether this meets the clause is for the organisers to judge.
 
+## Relation to the custodian's own research
+
+The custodian's published and preprinted research (multi-agent systems, agent identity design, philosophy of interaction) lies in territory near the essays' topics, and the custodian chose the topic areas, as the rules permit. Two checks were made.
+
+1. **Wording.** The essays were compared with the custodian's 19 papers in the library the agent could draw on. At most one six-word phrase is shared between any essay and any of those papers, and none of the custodian's characteristic terms appears in any essay.
+2. **The working log.** Nothing in the 795-record log shows the agent discussing or reading that research. The log's mentions of the same words concern other authors' work or other senses of the words.
+
+Limits: the log records messages and not file reads; the custodian's papers sit in the same repository as the agent's literature library, so access cannot be excluded; and a wording check cannot detect influence on ideas.
+
 ## Limits of this checklist
 
 - It is the entry's own assessment. A self-assessment of "no insight supplied" can be wrong in ways its author cannot see, and the logs are the way to test it.
