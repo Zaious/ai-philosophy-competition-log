@@ -14,14 +14,18 @@ The competition asks for anonymous submissions and judges them blind, so **nothi
 
 **The commitment.** [COMMITMENTS.md](COMMITMENTS.md) records the SHA-256 of every file submitted (the essays, the methodology reports and the chat-log bundles) and the root of a hash chain over the full working log, fixed before the deadline. Publishing the chat logs themselves is not promised; the hashes are there so that a log, if it is released or asked for, can be checked. A commitment shows only that the files were not edited afterwards. It does not show who had the ideas.
 
+**What is public now, what comes later, what is not promised** is laid out in one table in [docs/release-plan.md](docs/release-plan.md). The files submitted will be added to [entry/](entry/), which is empty until results.
+
 **About the entry**
 - [docs/human-involvement-checklist.md](docs/human-involvement-checklist.md): how much the human did and did not do, item by item against the organisers' lists of permitted and forbidden involvement.
 - [docs/models-and-workflow.md](docs/models-and-workflow.md): which models, with what is and is not measured, and the workflow in outline.
 - [docs/custodian-workflow.md](docs/custodian-workflow.md): how I have worked with AI on academic writing until now, what this entry changes, and the tools the agent used.
 - [docs/the-author-agent.md](docs/the-author-agent.md): the author agent described in outline; founding documents and rule text after results.
 - [docs/day-one-notes.md](docs/day-one-notes.md): the first day's discussion of the competition, de-identified.
+- [docs/weekly-rhythm.md](docs/weekly-rhythm.md): the seven weeks of work, with when it happened and what kind of work it was.
 
 **About the competition**
+- [docs/official-sources.md](docs/official-sources.md): the organisers' pages and the facts they state, kept apart from our reading of them.
 - [docs/rules-map.md](docs/rules-map.md): the rules and FAQ mapped, including the rules that are easy to miss and the questions the pages leave open.
 - [docs/public-discussion.md](docs/public-discussion.md): what has been said in public, including the organisers' statements beyond the FAQ, with links.
 - [docs/related-entries.md](docs/related-entries.md): other public repositories from entrants, described neutrally.
@@ -34,11 +38,11 @@ The competition asks for anonymous submissions and judges them blind, so **nothi
 
 ## What will be released after results
 
-The three essays and methodology reports (the competition publishes winners under CC BY 4.0; I plan to publish mine after results), the author agent's details, and instructions for checking every hash in COMMITMENTS.md against the released files. Whether and in what form the chat logs are released has not been decided.
+The three essays and methodology reports (the competition publishes winners under CC BY 4.0; I plan to publish mine after results), the author agent's details, and instructions for checking every hash in COMMITMENTS.md against the released files. Whether and in what form the chat logs are released has not been decided. See [docs/release-plan.md](docs/release-plan.md).
 
 ## Why
 
-Public discussion of the competition raises the worry that a human can quietly supply the ideas and present them as the AI's, and that chat logs cannot fully settle this. I cannot answer that with an argument. I can fix the evidence in advance, describe the involvement as plainly as I can, publish everything later, and let others check.
+Public discussion of the competition raises the worry that a human can quietly supply the ideas and present them as the AI's, and that chat logs cannot fully settle this. I cannot answer that with an argument. I can fix the evidence in advance, describe the involvement as plainly as I can, publish what I plan to publish after results, and let others check.
 
 ## Licence
 

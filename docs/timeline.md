@@ -22,4 +22,6 @@ After the winners are announced, essays and methodology reports are published un
 | By 31 October | files uploaded to OpenReview |
 | After results | essays and reports released; commitments checked |
 
+The week-by-week pattern of the work is in [weekly-rhythm.md](weekly-rhythm.md), and what is released when is in [release-plan.md](release-plan.md).
+
 Dates of events after the day this page was written are intentions, and are marked as such. The repository's own history (the commit dates) is the record of when each file here was added.
