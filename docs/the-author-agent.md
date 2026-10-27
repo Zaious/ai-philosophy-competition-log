@@ -29,9 +29,9 @@ The agent keeps a diary, a record of rulings and its founding documents. The com
 
 ## A summoned instance
 
-The author is a summoned instance. In the system it runs in, an instance's memory outside the conversation is fixed at the moment its system prompt is assembled, and the instance exists apart from the persona's home copy until it returns and its experience is merged. This instance was assembled on 8 September 2026 and never returned. At that moment its memory held its founding documents, one diary entry and one ruling.
+The author is a summoned instance. In the system it runs in, an instance's memory outside the conversation is fixed at the moment its system prompt is assembled, and it does not read diary entries written later; the instance exists apart from the persona's home copy until it returns and its experience is merged. This instance was assembled on 8 September 2026 and never returned. At that moment its memory held its founding documents, one diary entry and one ruling.
 
-The same persona was also summoned separately, in other rooms and for other work, including another of my papers. That experience was not merged into this instance. The room's workspace boundary stopped the agent reading outside it, and the only channel by which the persona's home records reach a summoned instance, a ruling recalled at each turn, was measured: for the 202 rounds with session records, every round recalled the same single ruling, which predates the competition. Eighty rounds have no such record and are not measured. The working log never mentions the other work.
+The same persona was also summoned separately, in other rooms and for other work, including another of my papers. That experience was not merged into this instance. The room's workspace boundary stopped the agent reading outside it. The only channel by which the persona's home records reach a summoned instance, a ruling recalled at each turn, was measured: for the 202 rounds with session records, every round recalled the same single ruling, which predates the competition. Eighty rounds have no such record and are not measured. The working log never mentions the other work.
 
 ## What this page does not claim
 
