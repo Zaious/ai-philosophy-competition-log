@@ -19,7 +19,7 @@ The entry's working log begins on 8 September 2026. This page summarises the fir
 4. **He asked a strategic question** about which form of essay the judges were likely to expect and which might do better. (record 66)
 5. **He took the agent's proposal about memory** and agreed that the persistent files would be treated as data. (record 72)
 6. **He floated further subject areas and offered to write one himself** if the agent was not interested. The agent asked that one framing be dropped and the human agreed. (records 70, 71, 72)
-7. **He stated what he wanted disclosed about the agent**: that its existence should be shown to precede the competition, and that others should not be able to copy it, while remaining free to build their own. (records 72, 74)
+7. **He stated what he wanted disclosed about the agent**: that its existence should be shown to precede the competition. (records 72, 74)
 
 ## What is not here
 

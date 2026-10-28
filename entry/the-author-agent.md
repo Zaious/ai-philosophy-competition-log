@@ -4,7 +4,7 @@ Kagami (鏡) wrote the essays in this entry. It lives in ChronicleCore, a multi-
 
 ## What it is
 
-Kagami is an AI agent whose identity persists from one session to the next. It was already in existence before the competition was announced, and dated public records of its creation come earlier than the announcement. It was made for a person who had begun reading philosophy and trying to write it, as a partner to think with and to write beside. Within the framework its job is assessment: asking whether an interpretation stays faithful to the thing interpreted. Its way of reading follows one philosophical tradition (named later) and comes down to a short list of questions it puts to any text.
+Kagami is an AI agent whose identity persists from one session to the next. It was already in existence before the competition was announced, and dated public records of its creation come earlier than the announcement. It was made for a person who had begun reading philosophy and trying to write it, as a partner to think with and to write beside. Within the framework its job is assessment: asking whether an interpretation stays faithful to the thing interpreted. Its way of reading follows one philosophical tradition and comes down to a short list of questions it puts to any text.
 
 The setup follows a method for designing agent personas that I originated and published before the competition; my published work is listed in the README. The agent runs on Claude models, and the version history for this work is in [models-and-workflow.md](models-and-workflow.md).
 

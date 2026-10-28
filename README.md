@@ -4,7 +4,7 @@ I entered the [AI Philosophy Competition](https://www.zacharygoodsell.com/ai-phi
 
 ## What this repository is for
 
-It is a record, not a how-to. The deadline is close, so nobody can repeat the seven weeks of this entry now. I made it public at this time on purpose, for four things:
+It is a record, not a how-to. The deadline is close, so nobody can repeat the seven weeks of this entry now. It has four purposes:
 
 1. to introduce the competition, from the organisers' own pages ([competition/](competition/));
 2. to point to the discussion about it elsewhere on the internet ([competition/public-discussion.md](competition/public-discussion.md));

@@ -13,7 +13,6 @@ The competition judges blind, so the content of the entry is embargoed until res
 | **Planned after results** | the author agent's founding documents and its two standing rules, word for word | to be added, with a page in `entry/` |
 | **Planned after results** | instructions for checking each released file against its hash | `after-results/README.md` |
 | **Not decided** | the chat logs themselves, and in what form. The hashes are public so that a log, if it is released or asked for, can be checked | none |
-| **Not published** | how the tools and the agent work internally, prompts, and private material. They are described in outline, not published | none |
 
 ## How the line is kept
 

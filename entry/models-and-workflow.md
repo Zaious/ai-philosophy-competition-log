@@ -1,6 +1,6 @@
 # Models used, and the workflow in outline
 
-Both are taken from the entry's methodology report, with the report's own qualifications kept. No topics, theses or sources are named.
+Both are taken from the entry's methodology report, with the report's own qualifications kept.
 
 ## Models
 

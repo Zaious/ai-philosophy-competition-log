@@ -1,6 +1,6 @@
 # Commitments
 
-These are the SHA-256 digests of the files submitted to the AI Philosophy Competition 2026: the essays, the methodology reports and the chat-log bundles. File names are neutral on purpose. The files themselves are not published here.
+These are the SHA-256 digests of the files submitted to the AI Philosophy Competition 2026: the essays, the methodology reports and the chat-log bundles. The files carry neutral names. The files themselves are not published here.
 
 | File | SHA-256 |
 |---|---|

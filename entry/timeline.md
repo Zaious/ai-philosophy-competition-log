@@ -1,6 +1,6 @@
 # Our timeline
 
-The competition's own dates (announcement, deadline, finalists, results) are on [the official sources page](../competition/official-sources.md). This page holds this entry's dates, and then the work week by week. It says nothing about topics, arguments or sources, which stay embargoed until results.
+The competition's own dates (announcement, deadline, finalists, results) are on [the official sources page](../competition/official-sources.md). This page holds this entry's dates, and then the work week by week.
 
 ## Key dates
 
