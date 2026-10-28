@@ -14,7 +14,7 @@ These come from the set of academic agent skills I built for my own academic wri
 
 | Skill | What it is for |
 |---|---|
-| `paper-decision-log` | keeps a decision file from which, together with the latest version, one can tell what the paper used to be, why it changed, the argument at each turning point and which paths were rejected, plus a stage-by-stage account of AI use; the format is checked against a schema |
+| `paper-decision-log` | keeps a decision file from which, together with the latest version, one can tell what the paper used to be, why it changed, the argument at each turning point and which paths were rejected; the format is checked against a schema |
 | `discipline` (philosophy volume) | routes to primary sources, with the Stanford Encyclopedia of Philosophy as first authority, and sets citation conventions and a short list of working rules |
 | `chronicle-lex` | the literature library: full texts and catalogue cards, so that quotations and page numbers can be checked against the original |
 | `paper-source-audit` | a ledger that sets each claim about a source beside the source's verbatim passage and page, under one rule: a claim may not go deeper than the depth to which the source was actually obtained (abstract only, full text, page-checked), with a verdict for each claim |
