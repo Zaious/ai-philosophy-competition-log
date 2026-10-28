@@ -2,7 +2,7 @@
 
 This page shows when the work happened and what kind of work it was in each week. It says nothing about topics, arguments or sources, which stay embargoed until results.
 
-**How the weeks are counted.** Week 1 starts on 8 September 2026, the day the logged work begins, and each week is seven days, in Taipei time. The methodology reports count weeks the same way. The numbers are counted by script from the 795 records committed in [COMMITMENTS.md](../COMMITMENTS.md) (records numbered 45 to 841).
+**How the weeks are counted.** Week 1 starts on 8 September 2026, the day the logged work begins, and each week is seven days, in Taipei time. The methodology reports count weeks the same way. The numbers are counted by script from the 795 records committed in [COMMITMENTS.md](../../COMMITMENTS.md) (records numbered 45 to 841).
 
 | Week | Dates of records | Records | Human messages | What kind of work |
 |---|---|---|---|---|

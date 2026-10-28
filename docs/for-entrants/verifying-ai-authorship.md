@@ -1,6 +1,6 @@
 # Can a competition verify that an AI had the ideas?
 
-A note on what evidence can and cannot do for the AI-involvement requirement, written by an entrant. It responds to a worry raised in public discussion of the competition (see [public-discussion.md](public-discussion.md)): a human could supply the ideas, have an AI write them up, and present the result as the AI's. Chat logs are the organisers' remedy, and critics point out that logs are not a complete remedy either.
+A note on what evidence can and cannot do for the AI-involvement requirement, written by an entrant. It responds to a worry raised in public discussion of the competition (see [public-discussion.md](../the-competition/public-discussion.md)): a human could supply the ideas, have an AI write them up, and present the result as the AI's. Chat logs are the organisers' remedy, and critics point out that logs are not a complete remedy either.
 
 Both are right. This note tries to say how far each kind of evidence goes.
 
@@ -38,4 +38,4 @@ None of this settles case 2 or case 3. It does make them cost more, and it leave
 
 ## A tool
 
-[tools/chainlog](../tools/chainlog) is a small hash-chain tool built for this purpose: it makes a log tamper-evident, lets the entrant publish part of a log in full and the rest as hashes, and prints a digest that can be posted as a commitment.
+[tools/chainlog](../../tools/chainlog) is a small hash-chain tool built for this purpose: it makes a log tamper-evident, lets the entrant publish part of a log in full and the rest as hashes, and prints a digest that can be posted as a commitment.

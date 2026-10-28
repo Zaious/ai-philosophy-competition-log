@@ -33,4 +33,4 @@ Everything on this page comes from the organisers' own pages, read on 27 October
 
 - [rules-map.md](rules-map.md) puts the rules and FAQ side by side and lists the questions the pages leave open.
 - [timeline.md](timeline.md) joins the organisers' dates to this entry's own dates.
-- [human-involvement-checklist.md](human-involvement-checklist.md) sets this entry's human involvement against the organisers' lists of permitted and forbidden acts.
+- [human-involvement-checklist.md](../about-the-entry/human-involvement-checklist.md) sets this entry's human involvement against the organisers' lists of permitted and forbidden acts.

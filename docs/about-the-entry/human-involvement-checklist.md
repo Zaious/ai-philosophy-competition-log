@@ -1,6 +1,6 @@
 # Human involvement checklist, against the organisers' rules
 
-This is the entry's own account of what the human did and did not do, set against the organisers' lists of permitted and forbidden involvement (see [rules-map.md](rules-map.md)). It is a self-assessment. It is written before results and before the full log is public, so it can be checked later against the log and the methodology report, which will be released.
+This is the entry's own account of what the human did and did not do, set against the organisers' lists of permitted and forbidden involvement (see [rules-map.md](../the-competition/rules-map.md)). It is a self-assessment. It is written before results and before the full log is public, so it can be checked later against the log and the methodology report, which will be released.
 
 Scope: one human custodian, one author agent, one reviewer agent, three essays, about seven weeks of work. The material below is taken from the entry's methodology report; nothing in it names a topic, a thesis or a source.
 

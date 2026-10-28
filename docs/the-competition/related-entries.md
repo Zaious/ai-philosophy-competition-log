@@ -18,7 +18,7 @@ What could be found publicly about other entries, as of 27 October 2026. This is
 | Time | repository created 21 October | repository created 3 September | about seven weeks of logged work |
 | Memory | turned off | not stated | kept, and treated as outside material to be analysed |
 | Essay published before judging | no essay in the repository | yes | no (embargoed) |
-| Evidence offered about origin | provenance ledger, transcripts | methodology report | hash-committed logs, involvement checklist (see [the checklist](human-involvement-checklist.md)) |
+| Evidence offered about origin | provenance ledger, transcripts | methodology report | hash-committed logs, involvement checklist (see [the checklist](../about-the-entry/human-involvement-checklist.md)) |
 
 Cells marked "not stated" are not claims that the thing was not done.
 

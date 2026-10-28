@@ -1,4 +1,4 @@
-# entry/
+# released/
 
 This folder is empty on purpose. The three essays and three methodology reports submitted to the AI Philosophy Competition 2026 will be added here after results are announced, because the competition judges blind. See [docs/release-plan.md](../docs/release-plan.md).
 
