@@ -1,8 +1,23 @@
-# The rhythm of the work, week by week
+# Our timeline
 
-This page shows when the work happened and what kind of work it was in each week. It says nothing about topics, arguments or sources, which stay embargoed until results.
+The competition's own dates (announcement, deadline, finalists, results) are on [the official sources page](../competition/official-sources.md). This page holds this entry's dates, and then the work week by week. It says nothing about topics, arguments or sources, which stay embargoed until results.
 
-**How the weeks are counted.** Week 1 starts on 8 September 2026, the day the logged work begins, and each week is seven days, in Taipei time. The methodology reports count weeks the same way. The numbers are counted by script from the 795 records committed in [COMMITMENTS.md](../../COMMITMENTS.md) (records numbered 45 to 841).
+## Key dates
+
+| Date | Event |
+|---|---|
+| Before 1 September 2026 | the author agent exists; dated public records of its creation predate the announcement |
+| 8 September 2026 | the entry's working log begins (record 45) |
+| 25 October 2026 | last record of the working log used for the entry (record 841) |
+| 26 to 27 October | submission files built and checked; commitments computed |
+| By 31 October | files uploaded to OpenReview |
+| After results | essays and reports released; commitments checked |
+
+Dates after the day this page was written are intentions. The repository's own history (the commit dates) is the record of when each file here was added.
+
+## The work, week by week
+
+**How the weeks are counted.** Week 1 starts on 8 September 2026, the day the logged work begins, and each week is seven days, in Taipei time. The methodology reports count weeks the same way. The numbers are counted by script from the 795 records committed in [COMMITMENTS.md](../COMMITMENTS.md) (records numbered 45 to 841).
 
 | Week | Dates of records | Records | Human messages | What kind of work |
 |---|---|---|---|---|

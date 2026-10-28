@@ -38,6 +38,6 @@ In comments on the Daily Nous post, Zach Goodsell wrote, among other things (as 
 
 ## What this repository takes from it
 
-The worry in the second and third points is the reason this repository exists. See [verifying-ai-authorship.md](../for-entrants/verifying-ai-authorship.md) for what logs and commitments can and cannot show, and [the chainlog tool](../../tools/chainlog).
+The worry in the second and third points is the reason this repository exists. See [verifying-ai-authorship.md](verifying-ai-authorship.md) for what logs and commitments can and cannot show, and [the chainlog tool](../tools/chainlog).
 
 Other threads exist (for example a discussion among users of Claude on Reddit) that were not read for this page.
