@@ -8,3 +8,4 @@ This entry, described without its content.
 - [the-author-agent.md](the-author-agent.md): the author agent described in outline; founding documents and rule text after results.
 - [custodian-workflow.md](custodian-workflow.md): how the custodian has worked with AI on academic writing until now, what this entry changes, and the tools the agent used.
 - [day-one-notes.md](day-one-notes.md): the first day's discussion of the competition, de-identified.
+- [submission-record.md](submission-record.md): what I declared on the submission form, and the check of the uploaded files.

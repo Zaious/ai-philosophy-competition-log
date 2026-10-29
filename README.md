@@ -26,7 +26,7 @@ README.md        this page
 COMMITMENTS.md   SHA-256 of every file submitted, and the root of a hash chain over the working log
 SHA256SUMS.txt   the same hashes as a list that sha256sum can check
 competition/     the competition: official sources, rules mapped, public discussion, related entries, two guides
-entry/           this entry: the human's part, the models, the author agent, the first day, our timeline
+entry/           this entry: the human's part, the models, the author agent, the first day, our timeline, what I declared at submission
 after-results/   empty until results; the essays and reports will be added here (and what is public when)
 tools/chainlog/  a small tool that makes a chat log tamper-evident (MIT)
 ```

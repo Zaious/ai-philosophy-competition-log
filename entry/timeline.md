@@ -10,7 +10,7 @@ The competition's own dates (announcement, deadline, finalists, results) are on 
 | 8 September 2026 | the entry's working log begins (record 45) |
 | 25 October 2026 | last record of the working log used for the entry (record 841) |
 | 26 to 27 October | submission files built and checked; commitments computed |
-| By 31 October | files uploaded to OpenReview |
+| 29 October | the three entries uploaded to OpenReview; the files downloaded back and checked ([submission-record.md](submission-record.md)) |
 | After results | essays and reports released; commitments checked |
 
 Dates after the day this page was written are intentions. The repository's own history (the commit dates) is the record of when each file here was added.

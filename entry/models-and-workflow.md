@@ -9,7 +9,8 @@ Both are taken from the entry's methodology report, with the report's own qualif
 | Author agent, first sessions (8 September) | `claude-sonnet-5` | measured from the session records |
 | Author agent, 8 to 19 September | **not measured**. The platform's configuration file records `claude-sonnet-5` | the session records for these rounds are no longer on disk; the text of the rounds is kept in the platform log |
 | Author agent, 4 October onwards | `claude-sonnet-5-5` | measured from the session records |
-| Reviewer agent | not recorded; described as an independently configured agent of the same model family | the same-family point is a stated limit: errors may be correlated |
+| Reviewer agent | `claude-sonnet-5-5` in the 11 reviewer sessions from 4 October; the 5 reviewer rounds of 8 to 19 September are **not measured**. An independently configured agent of the same model family | the same-family point is a stated limit: errors may be correlated |
+| A second AI system, outside the sessions | the report calls it "a second AI system"; the submission form names it ([submission-record.md](submission-record.md)). Version not recorded | the human relayed its overall evaluation and reading list (week 2) and later comments (weeks 5 and 7) |
 | Drafting of the agent's identity files, before the competition | an earlier pair of models (Fable 5 and Opus 4.8), as relayed from public documentation | not verified; the report says they took no part in writing, reviewing or auditing any essay |
 
 The model underneath the author agent was swapped once at the start of the logged work (a platform notice records it); the earlier conversation history did not carry over. Usage and cost figures in the report are the client's estimates at list prices, not bills; part of them are estimated and marked as such.
